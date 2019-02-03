@@ -16,8 +16,9 @@
       type = Terminal
     [[[window0]]]
       parent = ""
+      size = 1920, 600
+      position = 0:0
       type = Window
-      size = 1900, 600
 [plugins]
 [profiles]
   [[default]]
