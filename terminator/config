@@ -7,7 +7,8 @@
 [keybindings]
   full_screen = <Primary>Return
   hide_window = Insert
-  scaled_zoom = <Alt>Return
+  scaled_zoom = None
+  toggle_zoom = <Alt>Return
 [layouts]
   [[default]]
     [[[child1]]]
